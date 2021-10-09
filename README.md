@@ -1,1 +1,1 @@
-# https-yakamozapps.github.io-
+yakamozapps.github.io
